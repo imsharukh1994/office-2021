@@ -10,7 +10,6 @@ echo Activating Microsoft Office Professional Plus 2021
 echo.
 echo =====================================================================================
 echo Supported products:
-echo - Microsoft Office Standard 2021
 echo - Microsoft Office Professional Plus 2021
 echo =====================================================================================
 (if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")
